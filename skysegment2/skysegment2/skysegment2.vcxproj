@@ -159,6 +159,7 @@
     <ClCompile Include="skysegment2.cpp" />
     <ClCompile Include="skysegment3.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="test1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
