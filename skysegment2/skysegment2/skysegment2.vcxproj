@@ -155,11 +155,24 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="bouy.cpp" />
+    <ClCompile Include="bouy_mix.cpp" />
     <ClCompile Include="camera_calibration.cpp" />
+    <ClCompile Include="contour.cpp" />
+    <ClCompile Include="contrast.cpp" />
+    <ClCompile Include="equ.cpp" />
+    <ClCompile Include="goodFeature.cpp" />
+    <ClCompile Include="hsv_select.cpp" />
+    <ClCompile Include="kMean.cpp" />
     <ClCompile Include="skysegment2.cpp" />
     <ClCompile Include="skysegment3.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="test1.cpp" />
+    <ClCompile Include="track.cpp" />
+    <ClCompile Include="track2.cpp" />
+    <ClCompile Include="vision.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
